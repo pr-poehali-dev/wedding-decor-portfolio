@@ -54,7 +54,7 @@ export default function Index() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
             <div className="font-cormorant text-2xl font-bold text-primary">
-              Wedding Dreams
+              Helloy Bride
             </div>
             <div className="hidden md:flex space-x-8">
               {['Главная', 'Портфолио', 'Услуги', 'Отзывы', 'Контакты'].map((item, index) => {
@@ -435,7 +435,7 @@ export default function Index() {
         <div className="max-w-6xl mx-auto">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="font-cormorant text-2xl font-bold mb-4 md:mb-0">
-              Wedding Dreams
+              Helloy Bride
             </div>
             <div className="flex space-x-6">
               <a href="#" className="hover:text-primary transition-colors">
