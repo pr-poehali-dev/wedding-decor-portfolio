@@ -28,9 +28,9 @@ export default function Index() {
     },
     {
       id: 3,
-      image: '/img/0ba55fe7-d223-41f4-88e6-c6954eacc237.jpg',
-      title: 'Свадебная арка мечты',
-      description: 'Воздушная арка с драпировкой и цветочными композициями'
+      image: 'https://cdn.poehali.dev/files/38b82826-9882-4549-afeb-2cb800e0208c.jpeg',
+      title: 'Современная свадебная арка',
+      description: 'Стильная арка в синих тонах с белыми и голубыми цветами'
     }
   ]
 
